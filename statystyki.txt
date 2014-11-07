@@ -1,63 +1,71 @@
-the 7
-i 6
-and 4
-a 4
-me 3
-of 3
-have 3
-to 2
-dragon 2
-my 2
-only 2
-this 2
-was 2
-at 2
-is 2
-who 2
-no 2
-blessing 2
-since 1
-different 1
-but 1
-ability 1
-ever 1
-into 1
-thought 1
-birth 1
-night 1
-will 1
-hates 1
-sky 1
-everyone 1
-truly 1
-solitude 1
-all 1
-been 1
-one 1
-dooming 1
-transform 1
-distrust 1
-opposite 1
-until 1
-knows 1
-least 1
-met 1
-reality 1
-for 1
-myself 1
-seventeen 1
-ones 1
-it�s 1
-rejects 1
-years 1
-lifetime 1
-like 1
-exact 1
-moon 1
-about 1
-him 1
-curse 1
-sounds 1
-understood 1
-realize 1
-kind 1
+Statystyki uzyskane na podstawie podanego pliku:
+Słowo the wystąpiło: 7 raz/y. 
+Słowo i wystąpiło: 6 raz/y. 
+Słowo ala wystąpiło: 5 raz/y. 
+Słowo and wystąpiło: 4 raz/y. 
+Słowo a wystąpiło: 4 raz/y. 
+Słowo me wystąpiło: 3 raz/y. 
+Słowo of wystąpiło: 3 raz/y. 
+Słowo have wystąpiło: 3 raz/y. 
+Słowo to wystąpiło: 2 raz/y. 
+Słowo my wystąpiło: 2 raz/y. 
+Słowo ma wystąpiło: 2 raz/y. 
+Słowo only wystąpiło: 2 raz/y. 
+Słowo this wystąpiło: 2 raz/y. 
+Słowo was wystąpiło: 2 raz/y. 
+Słowo at wystąpiło: 2 raz/y. 
+Słowo is wystąpiło: 2 raz/y. 
+Słowo no wystąpiło: 2 raz/y. 
+Słowo who wystąpiło: 2 raz/y. 
+Słowo since wystąpiło: 1 raz/y. 
+Słowo it’s wystąpiło: 1 raz/y. 
+Słowo but wystąpiło: 1 raz/y. 
+Słowo ability wystąpiło: 1 raz/y. 
+Słowo about wystąpiło: 1 raz/y. 
+Słowo him wystąpiło: 1 raz/y. 
+Słowo into wystąpiło: 1 raz/y. 
+Słowo thought wystąpiło: 1 raz/y. 
+Słowo birth wystąpiło: 1 raz/y. 
+Słowo solitude wystąpiło: 1 raz/y. 
+Słowo one wystąpiło: 1 raz/y. 
+Słowo will wystąpiło: 1 raz/y. 
+Słowo hates wystąpiło: 1 raz/y. 
+Słowo everyone wystąpiło: 1 raz/y. 
+Słowo night wystąpiło: 1 raz/y. 
+Słowo dragon wystąpiło: 1 raz/y. 
+Słowo truly wystąpiło: 1 raz/y. 
+Słowo different wystąpiło: 1 raz/y. 
+Słowo all wystąpiło: 1 raz/y. 
+Słowo alę wystąpiło: 1 raz/y. 
+Słowo been wystąpiło: 1 raz/y. 
+Słowo ﻿ever wystąpiło: 1 raz/y. 
+Słowo dooming wystąpiło: 1 raz/y. 
+Słowo transform wystąpiło: 1 raz/y. 
+Słowo distrust wystąpiło: 1 raz/y. 
+Słowo opposite wystąpiło: 1 raz/y. 
+Słowo until wystąpiło: 1 raz/y. 
+Słowo knows wystąpiło: 1 raz/y. 
+Słowo least wystąpiło: 1 raz/y. 
+Słowo met wystąpiło: 1 raz/y. 
+Słowo reality wystąpiło: 1 raz/y. 
+Słowo for wystąpiło: 1 raz/y. 
+Słowo myself wystąpiło: 1 raz/y. 
+Słowo seventeen wystąpiło: 1 raz/y. 
+Słowo ones wystąpiło: 1 raz/y. 
+Słowo kota wystąpiło: 1 raz/y. 
+Słowo kot wystąpiło: 1 raz/y. 
+Słowo blessing wystąpiło: 1 raz/y. 
+Słowo rejects wystąpiło: 1 raz/y. 
+Słowo years wystąpiło: 1 raz/y. 
+Słowo blessing wystąpiło: 1 raz/y. 
+Słowo lifetime wystąpiło: 1 raz/y. 
+Słowo like wystąpiło: 1 raz/y. 
+Słowo exact wystąpiło: 1 raz/y. 
+Słowo moon wystąpiło: 1 raz/y. 
+Słowo sky wystąpiło: 1 raz/y. 
+Słowo curse wystąpiło: 1 raz/y. 
+Słowo sounds wystąpiło: 1 raz/y. 
+Słowo understood wystąpiło: 1 raz/y. 
+Słowo dragon wystąpiło: 1 raz/y. 
+Słowo realize wystąpiło: 1 raz/y. 
+Słowo kind wystąpiło: 1 raz/y. 

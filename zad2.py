@@ -1,4 +1,8 @@
-plik=open("menu.txt", "r")
+#!/usr/bin/env python
+#-*- coding: utf-8 -*-
+
+import codecs
+plik=codecs.open("menu.txt", "r", "utf-8")
 lista=[]
 tresc=plik.read()
 tresc=tresc.replace("\n", " ")
@@ -14,11 +18,12 @@ plik.close()
 def platnosc(zamowienie):
     wartosc=0
     for pozycja in zamowienie:
-        if pozycja in Menu.keys():
-            wartosc=wartosc+Menu[pozycja]
+        if pozycja.decode("utf-8") in Menu.keys():
+            wartosc=wartosc+Menu[pozycja.decode("utf-8")]
+
     napiwek=round(wartosc*0.1, 2)
     print napiwek+wartosc
     return napiwek+wartosc
 
-dania=["Rosol", "Surowka", "Schabowy", "Ogorek"]
+dania=["Rosół", "Surówka", "Placki", "Pizza", "Pomidorowa", "Schabowy", "Kompot"]
 platnosc(dania)
