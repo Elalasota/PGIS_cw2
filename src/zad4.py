@@ -185,6 +185,7 @@ lumia.dodaj("Linkin Park - Numb")
 print lumia.piosenka
 print lumia
 lumia.zadzwon("76032042")
+
 lumia.wlacz()
 lumia.set_kanal("Radio Zet")
 print lumia.dodawanie(10, 12)
